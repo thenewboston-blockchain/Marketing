@@ -4,7 +4,7 @@ Repo for all tasks, documentation, and suggestions regarding developing and exec
 
 ## Assets
 
-[Logo Assets](https://github.com/thenewboston-developers/Marketing/raw/master/thenewboston%20logos.zip)
+[Logo Assets](https://github.com/thenewboston-developers/Marketing/raw/master/Assets/thenewboston%20logos.zip)
 
 ## Community
 
