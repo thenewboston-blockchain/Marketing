@@ -4,7 +4,6 @@ about: Marketing team ticket template
 title: ''
 labels: ''
 assignees: ''
-projects: 'Marketing Tasks'
 
 ---
 
