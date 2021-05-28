@@ -2,7 +2,7 @@
 name: Graphic Bounty
 about: Graphic bounty template
 title: ''
-labels: '1000'
+labels: '800'
 assignees: ''
 
 ---
