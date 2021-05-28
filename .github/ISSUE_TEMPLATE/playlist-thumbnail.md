@@ -1,7 +1,7 @@
 ---
-name: Playlist Thumbnail for ""
+name: Playlist Thumbnail
 about: Playlist thumbnail template
-title: ''
+title: 'Playlist Thumbnail for ""'
 labels: '400'
 assignees: ''
 
