@@ -15,5 +15,5 @@ Create a logo for the "" project that will be displayed alongside the project on
 Size: 64 x 64
 Format: JPG or PNG
 
-Links
+**Links**
 - [Project Proposal](http://example.com)
