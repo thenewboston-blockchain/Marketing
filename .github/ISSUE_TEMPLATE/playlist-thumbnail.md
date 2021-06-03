@@ -20,6 +20,6 @@ Size: 1280 x 720
 Format: JPG or PNG
 
 **Examples**
-![](https://i.imgur.com/5aDrcya.png)
-![](https://i.imgur.com/Nm0S2Oe.jpg)
-![](https://i.imgur.com/zpr5cU8.jpg])
+![](https://i.imgur.com/Kcaf9k2.png)
+![](https://i.imgur.com/q5RINQX.png)
+![](https://i.imgur.com/l8hYdVD.png)
