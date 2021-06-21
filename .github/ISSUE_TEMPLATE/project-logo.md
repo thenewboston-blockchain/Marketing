@@ -2,7 +2,7 @@
 name: Project Logo
 about: Project logo template
 title: 'Project Logo for ""'
-labels: '800'
+labels: 800
 assignees: ''
 
 ---
@@ -12,7 +12,7 @@ Create a logo for the "" project that will be displayed alongside the project on
 [thenewboston.com/projects](https://thenewboston.com/projects)
 
 **Image Specs**
-Size: 64 x 64
+Size: 64 x 64 | 256 x 256 | 512 x 512
 Format: JPG or PNG
 
 **Examples**
