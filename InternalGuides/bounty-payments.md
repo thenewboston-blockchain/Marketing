@@ -4,7 +4,7 @@ When a user submits content for a bounty that we would like to accept, save the 
 Google Drive folder under `Marketing/Content/Infographics/Not yet posted`.
 
 <p align="center">
-  <img alt="thenewboston logo" src="./Images/marketing-drive-infographics.png">
+  <img alt="thenewboston logo" src="../Images/marketing-drive-infographics.png">
 </p>
 
 ```
