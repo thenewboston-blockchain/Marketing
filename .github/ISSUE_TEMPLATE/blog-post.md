@@ -1,7 +1,7 @@
 ---
-name: Blog Post - BLOG TITLE HERE
+name: Blog Post
 about: Blog post template
-title: ''
+title: 'Blog Post: BLOG TITLE HERE'
 labels: '1000'
 assignees: ''
 
