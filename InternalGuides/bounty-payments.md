@@ -4,8 +4,8 @@ This guide will explain the bounty payment system for the marketing team.
 
 ## Accepting Bounties
 
-When a user submits content for a bounty that we would like to accept, save the file (typically a graphic) in our 
-Google Drive folder under `Marketing/Content/Infographics/Not yet posted`.
+When a user submits content for a bounty that we would like to accept, save that file (typically a graphic) and add it
+to our Google Drive folder under `Marketing/Content/Infographics/Not yet posted`.
 
 <p align="center">
   <img alt="thenewboston logo" src="../Images/marketing-drive-infographics.png">
@@ -13,7 +13,7 @@ Google Drive folder under `Marketing/Content/Infographics/Not yet posted`.
 
 ## Flagging for Payment Due
 
-On the GitHub issue, copy the code below and paste in as a new comment. Fill out the user (which will also notify them) 
+On the GitHub issue, copy the code below and paste in as a new comment. Fill out the user (which will also notify them)
 along with the amount owed.
 
 ```
@@ -26,7 +26,7 @@ Amount:
 
 ```
 
-You can then add the `Payment Due` label. 
+You can then add the `Payment Due` label.
 
 <p align="center">
   <img alt="thenewboston logo" src="../Images/bounty-payment-comment.png" width="1000">
