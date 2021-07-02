@@ -7,7 +7,7 @@ This guide will explain the bounty payment system for the marketing team.
 When a user submits content for a bounty that we would like to accept, save that file (typically a graphic) and add it
 to our Google Drive folder under `Marketing/Content/Infographics/Not yet posted`.
 
-<p align="center">
+<p>
   <img alt="thenewboston logo" src="../Images/marketing-drive-infographics.png">
 </p>
 
@@ -28,6 +28,6 @@ Amount:
 
 You can then add the `Payment Due` label. Chrisha will send that user the coins and then close the issue.
 
-<p align="center">
+<p>
   <img alt="thenewboston logo" src="../Images/bounty-payment-comment.png" width="1000">
 </p>
