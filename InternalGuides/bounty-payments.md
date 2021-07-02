@@ -29,7 +29,7 @@ Amount:
 You can then add the `Payment Due` label. 
 
 <p align="center">
-  <img alt="thenewboston logo" src="../Images/bounty-payment-comment.png" width="800">
+  <img alt="thenewboston logo" src="../Images/bounty-payment-comment.png" width="1000">
 </p>
 
 Chrisha will send that user the coins and then close the issue.
