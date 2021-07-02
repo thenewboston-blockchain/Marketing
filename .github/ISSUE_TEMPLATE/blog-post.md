@@ -1,5 +1,5 @@
 ---
-name: Blog Post: BLOG TITLE HERE
+name: Blog Post - BLOG TITLE HERE
 about: Blog post template
 title: ''
 labels: '1000'
