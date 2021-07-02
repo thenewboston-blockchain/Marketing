@@ -23,7 +23,6 @@ along with the amount owed.
 
 User: 
 Amount: 
-
 ```
 
 You can then add the `Payment Due` label. Chrisha will send that user the coins and then close the issue.
