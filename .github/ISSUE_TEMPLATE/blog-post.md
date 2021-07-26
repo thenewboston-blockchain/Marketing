@@ -20,3 +20,6 @@ TOPIC HERE
 - Include who wrote it
 - Include title
 - Include secondary titles within article so people can see how information is chunked out
+
+**How to submit?**
+- Submit your content using this google form: https://forms.gle/ktA3siH2sycsDUSo6
