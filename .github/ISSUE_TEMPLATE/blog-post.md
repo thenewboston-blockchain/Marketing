@@ -2,7 +2,7 @@
 name: Blog Post
 about: Blog post template
 title: 'Blog Post: BLOG TITLE HERE'
-labels: '1000'
+labels: '1000', 'Writing'
 assignees: ''
 
 ---
